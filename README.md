@@ -1,6 +1,5 @@
 <!-- <h1> Hi there 👋, Iam Kaustubh Agarwal </h1> -->
 
-![image](Header.png)
 
 <h2> Github Stats </h2>
 <div>
