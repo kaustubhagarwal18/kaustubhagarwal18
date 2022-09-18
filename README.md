@@ -31,7 +31,7 @@
 <p align="center">
 <a href="mailto:Kaustubhagarwal18@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kaustubhagarwal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.hackster.io/KaustubhAgarwal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hackster-Hackster-blue&&style=for-the-badge"/></a>
+<a href="https://www.hackster.io/KaustubhAgarwal" target="_blank"><img alt="Hackster" src="https://img.shields.io/badge/Hackster-Hackster-blue&&style=for-the-badge&logo=hackster&logoColor=white"/></a>
 
 https://img.shields.io/badge/Hackster-Hackster-blue
 https://www.hackster.io/KaustubhAgarwal
