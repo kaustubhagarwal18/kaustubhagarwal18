@@ -1,30 +1,11 @@
-<!-- <h1> Hi there 👋, Iam Kaustubh Agarwal </h1> -->
+<h1> Hi there 👋, Iam Kaustubh Agarwal </h1>
 
+Software Engineer – DevOps & Release
+Greater Noida (Delhi NCR), India · 8 years across semiconductor, telecom and IoT
 
-<h2> Github Stats </h2>
-<div>
-  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="5" src="https://github-profile-trophy.vercel.app/?username=Kaustubhagarwal18&column=5&margin-w=10&margin-h=10&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  </a>
-  </p>
-</div>
+I moved from building lithography software to owning how it ships. At ASML I spent four years developing Python calibration software for DUV lithography systems, then two years as the final quality gate for multi-team releases. Before that: Linux networking R&D on Philips Hue at Signify, and nationwide 2G/3G/4G RAN rollouts at Ericsson.
 
-<p align="center"> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kaustubhagarwal18&show_icons=true&layout=compact&count_private=true&hide_border=true&hide=CSS,HTML&hide_title=true&theme=tokyonight" alt="Kaustubh's Github Stats"></p> 
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhagarwal18&show_icons=true&layout=compact&hide_border=true&hide=CSS,HTML&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Kaustubh's Github Stats"></p> 
-
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubhagarwal18&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Kaustubh's Github Stats"></p> 
-
-
-<!--
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Kaustubhagarwal18.Kaustubhagarwal18)
--->
-
-<p align="center"> <img src=https://visitor-badge.laobi.icu/badge?page_id=Kaustubhagarwal18.Kaustubhagarwal18> </p>
-
-<p align="center">This Month Visitors</p>
-<p align="center"> <img src="https://count.getloli.com/get/@:Kaustubhagarwal18?theme=moebooru-h" alt=":name" /></p>
+Open to DevOps, release and platform engineering roles in Delhi NCR, other Indian cities, or remote. Immediate joiner.
 
 <h2> Get in Touch! </h2>
 <p align="center">
