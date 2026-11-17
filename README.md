@@ -1,25 +1,47 @@
 
+# Kaustubh Agarwal
 
-Software Engineer – DevOps & Release
+### Software Engineer | DevOps & Release Engineering
 
-<p align="center">
-<a href="mailto:Kaustubhagarwal18@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kaustubhagarwal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.hackster.io/KaustubhAgarwal" target="_blank"><img  height="32" width="32" alt="Hackster" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackster.svg?&logoWidth=40?&style=for-the-badge?&labelColor=abcdef"/></a>
+Software Engineer with 7+ years of experience across semiconductor, telecommunications and IoT, including nearly six years at ASML.
 
+Experienced in software development, software integration, CI/CD automation, build systems, Linux and release engineering. Currently building practical projects around infrastructure automation, containerisation, monitoring and AI-assisted diagnostics.
 
-</p>
+## Technical Skills
 
-<!--
+- **Languages:** Python, C/C++, Bash
+- **Systems:** Linux, TCP/IP, Git
+- **CI/CD:** Jenkins, GitHub Actions
+- **Build Systems:** CMake, Bazel, Make
+- **Infrastructure:** Docker, Terraform, Ansible
+- **Monitoring:** Prometheus, Grafana, Elasticsearch
+- **Containers:** Kubernetes, Helm
+- **Security:** Trivy, SBOM generation
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Virtual RF Test Bench
+Python-based RF test automation platform using software-simulated SCPI instruments, containerised execution, CI/CD security scanning and AI-assisted failure diagnosis.
+
+[View Repository](https://github.com/kaustubhagarwal18/virtual-rf-testbench)
+
+### Local Fleet CI/CD Pipeline
+Infrastructure provisioning with Terraform, configuration management with Ansible, automated deployments, health checks and rollback.
+
+[View Repository](https://github.com/kaustubhagarwal18/local_fleet_cicd)
+
+## Experience
+
+- **ASML:** Software Integration & Software Development
+- **Signify:** IoT R&D – Master's Thesis
+- **Ericsson:** Radio Access Network Engineering
+
+## Resume
+
+[📄 View My Resume (PDF)](./Kaustubh_Agarwal_CV.pdf)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kaustubhagarwal/)
+- [Hackster.io](https://www.hackster.io/KaustubhAgarwal)
+- [Email](mailto:Kaustubhagarwal18@gmail.com)
